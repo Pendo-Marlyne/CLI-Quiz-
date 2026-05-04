@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "choices": {"A": "Berlin", "B": "Madrid", "C": "Paris", "D": "Rome"},
+    "answer": "C",
+    "category": "general knowledge"
+  },
+  {
+    "question": "Which language has the most native speakers?",
+    "choices": {"A": "English", "B": "Mandarin Chinese", "C": "Spanish", "D": "Hindi"},
+    "answer": "B",
+    "category": "general knowledge"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "choices": {"A": "Earth", "B": "Mars", "C": "Jupiter", "D": "Venus"},
+    "answer": "B",
+    "category": "science"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "choices": {"A": "Go", "B": "Gd", "C": "Au", "D": "Ag"},
+    "answer": "C",
+    "category": "science"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "choices": {"A": "Isaac Newton", "B": "Albert Einstein", "C": "Galileo Galilei", "D": "Nikola Tesla"},
+    "answer": "B",
+    "category": "history"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "choices": {"A": "1942", "B": "1945", "C": "1948", "D": "1950"},
+    "answer": "B",
+    "category": "history"
+  }
+]
