@@ -1,1 +1,1 @@
-# CLI-Quiz-
+# CLI
